@@ -33,3 +33,43 @@ namespace ConcreteCalculatorLibrary
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Open Visual Studio
+
+create a class library
+
+Add a new project
+	NUnit 3 Test Project
+	
+Install the nuget package
+	NUnit
+	NUnit.Analyzers
+	NUnit3TestAdapter
+	
+Test Project
+	Right Click > Add > Project Reference
+		Select the class library > OK
+
+Save the Solution
+
+Test > Run all Tests
+
+Test > Test Explorer
+
+*/
+
+
+

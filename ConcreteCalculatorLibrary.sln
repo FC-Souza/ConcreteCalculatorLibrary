@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcreteCalculatorLibrary", "ConcreteCalculatorLibrary\ConcreteCalculatorLibrary.csproj", "{F5273FD1-7833-4BAB-8540-5E3094FCA6DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConcreteCalculator", "TestConcreteCalculator\TestConcreteCalculator.csproj", "{95E3757B-BA43-4BB0-8F1F-5AE7BA5031CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5273FD1-7833-4BAB-8540-5E3094FCA6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5273FD1-7833-4BAB-8540-5E3094FCA6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5273FD1-7833-4BAB-8540-5E3094FCA6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E3757B-BA43-4BB0-8F1F-5AE7BA5031CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E3757B-BA43-4BB0-8F1F-5AE7BA5031CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E3757B-BA43-4BB0-8F1F-5AE7BA5031CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E3757B-BA43-4BB0-8F1F-5AE7BA5031CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
